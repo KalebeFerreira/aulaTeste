@@ -1,4 +1,5 @@
 const sum = require('../src/sum');
+// Testes para a função de soma
 
 test('soma 1 + 2 para igualar 3', () => {
   expect(sum(1, 2)).toBe(3);
