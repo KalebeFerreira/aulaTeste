@@ -1,5 +1,13 @@
 {
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "name": "workflows",
+  "version": "1.0.0",
+  "main": "sum.test.js",
+  "scripts": {
+    "test": "jest"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
